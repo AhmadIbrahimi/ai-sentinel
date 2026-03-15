@@ -1,0 +1,5 @@
+{
+  "name": "AI Text Sentinel",
+  "description": "An advanced AI detection tool that analyzes and highlights AI-generated segments in your text with confidence scoring.",
+  "requestFramePermissions": []
+}
